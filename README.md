@@ -23,6 +23,9 @@ A collection of online education resources for kids.
 - Code Monkey - https://www.playcodemonkey.com/
 - Code.org - https://code.org/
 
+## Science
+
+- Middle School Chemistry - http://www.middleschoolchemistry.com/
 
 ## Other References
 - http://www.mastersindatascience.org/blog/the-ultimate-stem-guide-for-kids-239-cool-sites-about-science-technology-engineering-and-math/
