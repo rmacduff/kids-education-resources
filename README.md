@@ -17,6 +17,7 @@ A collection of online education resources for kids.
 - Cool Math Games - http://www.coolmath-games.com/
 - Kids Math Games - http://www.kidsmathgamesonline.com/
 - Beestar - http://beestar.org/
+- Fact Monster - http://www.factmonster.com/mathmoney.html (has other subjects too)
 
 ## Programming 
 
