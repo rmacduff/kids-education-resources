@@ -20,6 +20,7 @@ A collection of online education resources for kids.
 - Beestar - http://beestar.org/
 - Fact Monster - http://www.factmonster.com/mathmoney.html (has other subjects too)
 - Math Drills - http://www.math-drills.com/
+- Math is Fun - https://www.mathsisfun.com/
 
 ## Programming 
 
