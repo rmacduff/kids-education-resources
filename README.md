@@ -21,6 +21,7 @@ A collection of online education resources for kids.
 - Fact Monster - http://www.factmonster.com/mathmoney.html (has other subjects too)
 - Math Drills - http://www.math-drills.com/
 - Math is Fun - https://www.mathsisfun.com/
+- Waterloo CEMC courseware - https://cemc.uwaterloo.ca/resources/courseware/courseware.html
 
 ## Programming 
 
